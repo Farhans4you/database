@@ -1,0 +1,13 @@
+{
+  "songs": [
+    {
+      "bg": "#ffffff",
+      "artist": "VilkyYY",
+      "songName": "Dj Kalah style JDM",
+      "files": {
+        "song": "https://raw.githubusercontent.com/Farhans4you/database/main/media/kalqhan.mp3",
+        "cover": "https://raw.githubusercontent.com/Farhans4you/database/main/media/Kalah.png"
+      }
+    }
+  ]
+}
